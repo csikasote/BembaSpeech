@@ -10,16 +10,16 @@
 		.-- audio/
 		|    |
 		|    .-- fold*/
-		|		|
-		|		.-- *_elict/
-		|		        |
-		|		        .-- *.wav
-		|		        |
-		|		        .-- *-metadata.json
-		|			|
-		|	      		.-- *_linker.txt
-		|			|
-		|			.-- Session**.txt
+		|	  |
+		|	  .-- *_elict/
+		|		 |
+		|		 .-- *.wav
+		|		 |
+		|		 .-- *-metadata.json
+		|		 |
+		|	      	 .-- *_linker.txt
+		|		 |
+		|		 .-- Session**.txt
 		|        
 		.-- text/
 		|    |
