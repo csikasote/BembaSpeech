@@ -1,0 +1,5 @@
+/storage/emulated/0/Prince/fold4/Session09.txt (line 88) ; /storage/emulated/0/ligaikuma/recordings/200918-105135_bem_a40_elicit/200918-105135_bem_a40_elicit_87.wav
+/storage/emulated/0/Prince/fold4/Session09.txt (line 89) ; /storage/emulated/0/ligaikuma/recordings/200918-105135_bem_a40_elicit/200918-105135_bem_a40_elicit_88.wav
+/storage/emulated/0/Prince/fold4/Session09.txt (line 90) ; /storage/emulated/0/ligaikuma/recordings/200918-105135_bem_a40_elicit/200918-105135_bem_a40_elicit_89.wav
+/storage/emulated/0/Prince/fold4/Session09.txt (line 91) ; /storage/emulated/0/ligaikuma/recordings/200918-105135_bem_a40_elicit/200918-105135_bem_a40_elicit_90.wav
+/storage/emulated/0/Prince/fold4/Session09.txt (line 92) ; /storage/emulated/0/ligaikuma/recordings/200918-105135_bem_a40_elicit/200918-105135_bem_a40_elicit_91.wav
