@@ -25,9 +25,9 @@
 		|    |
 		|    .-- fold*/
 		|    |    |
-		|    |    .- AllFiles.txt
+		|    |    .-- AllFiles.txt
 		|    |    |
-		|    |    .- Session*.txt
+		|    |    .-- Session*.txt
 		|    | 
 		|    .-- BEEN CORPUS.ods
 		|    |    
