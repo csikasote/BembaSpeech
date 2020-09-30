@@ -1,8 +1,8 @@
 # bemba-language-corpus
 
 
-	UPDATES AS OF [30-SEP-2020]
-	===========================
+	1. UPDATES AS OF [30-SEP-2020]
+	   ===========================
 	
 	DATASET		TARGET		RECORDED	UTTERANCES			
 	-------		------		--------	----------
@@ -10,8 +10,8 @@
 	- Valid		02Hrs		TBU		TBU
 	- Test		01Hrs		TBU		TBU
 	
-	FILE ORGANIZATION
-	=================
+	2. FILE ORGANIZATION
+	   =================
 	
 	<bemba_language_corpus>
 		|
