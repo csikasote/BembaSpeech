@@ -1,8 +1,8 @@
 # bemba-language-corpus
 
 
-	1. UPDATES AS OF [30-SEP-2020]
-	   ===========================
+	UPDATES AS OF [30-SEP-2020]
+	===========================
 	
 	DATASET		TARGET		RECORDED	UTTERANCES			
 	-------		------		--------	----------
@@ -10,41 +10,42 @@
 	- Valid		02Hrs		TBU		TBU
 	- Test		01Hrs		TBU		TBU
 	
-	2. FILE ORGANIZATION
-	   =================
 	
-	<bemba_language_corpus>
-		|
-		.-- README.md
-		|
-		.-- TRACKER.txt
-		|
-		.-- audio/
-		|    |
-		|    .-- fold*/
-		|	  |
-		|	  .-- *_elict/
-		|		 |
-		|		 .-- *.wav
-		|		 |
-		|		 .-- *-metadata.json
-		|		 |
-		|	      	 .-- *_linker.txt
-		|		 |
-		|		 .-- Session**.txt
-		|        
-		.-- text/
-		|    |
-		|    .-- fold*/
-		|    |    |
-		|    |    .-- AllFiles.txt
-		|    |    |
-		|    |    .-- Session*.txt
-		|    | 
-		|    .-- BEEN CORPUS.ods
-		|    |    
-		|    .-- MAIN_TEXT.txt
-		|
-		.-- text_source_docs/
+	FILE ORGANIZATION
+	=================
+	
+		<bemba_language_corpus>
 			|
-			.-- **_fold_**
+			.-- README.md
+			|
+			.-- TRACKER.txt
+			|
+			.-- audio/
+			|    |
+			|    .-- fold*/
+			|	  |
+			|	  .-- *_elict/
+			|		 |
+			|		 .-- *.wav
+			|		 |
+			|		 .-- *-metadata.json
+			|		 |
+			|	      	 .-- *_linker.txt
+			|		 |
+			|		 .-- Session**.txt
+			|        
+			.-- text/
+			|    |
+			|    .-- fold*/
+			|    |    |
+			|    |    .-- AllFiles.txt
+			|    |    |
+			|    |    .-- Session*.txt
+			|    | 
+			|    .-- BEEN CORPUS.ods
+			|    |    
+			|    .-- MAIN_TEXT.txt
+			|
+			.-- text_source_docs/
+				|
+				.-- **_fold_**
