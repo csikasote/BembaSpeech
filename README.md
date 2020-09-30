@@ -1,13 +1,18 @@
 # bemba-language-corpus
 
-For this project, the target hours of the ASR dataset per respective set is as follows:
 
-	- train set: 20hrs
-	- valid set: 2hrs 
-	- test set: 1hr
+	UPDATES AS OF [30-SEP-2020]
+	===========================
 	
-At the moment, there are 16hrs: 11 minutes of recorded speech.
-
+	DATASET		TARGET		RECORDED	UTTERANCES			
+	-------		------		--------	----------
+	- Train		20Hrs		16:11:02	10, 298			
+	- Valid		02Hrs		TBU		TBU
+	- Test		01Hrs		TBU		TBU
+	
+	FILE ORGANIZATION
+	=================
+	
 	<bemba_language_corpus>
 		|
 		.-- README.md
