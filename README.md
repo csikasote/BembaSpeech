@@ -6,7 +6,7 @@
 	
 	DATASET		TARGET		RECORDED	UTTERANCES			
 	-------		------		--------	----------
-	- Train		20Hrs		18:31:53	11, 448			
+	- Train		20Hrs		19:06:15	11, 814			
 	- Valid		02Hrs		TBU		TBU
 	- Test		01Hrs		TBU		TBU
 	
