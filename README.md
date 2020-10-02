@@ -4,11 +4,11 @@
 	UPDATES AS OF [02-OCT-2020]
 	===========================
 	
-	DATASET		TARGET		RECORDED	UTTERANCES			
-	-------		------		--------	----------
-	- Train		20Hrs		19:06:15	11, 814			
-	- Valid		02Hrs		TBU		TBU
-	- Test		01Hrs		TBU		TBU
+	DATASET		TARGET		RECORDED	UTTERANCES	STATUS			
+	-------		------		--------	----------	------
+	- Train		20Hrs		19:06:15	11, 814		95.0%		
+	- Valid		02Hrs		TBU		TBU		00.0%
+	- Test		01Hrs		TBU		TBU		00.0%
 	
 	
 	FILE ORGANIZATION
