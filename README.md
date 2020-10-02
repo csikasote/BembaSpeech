@@ -1,7 +1,7 @@
 # bemba-language-corpus
 
 
-	UPDATES AS OF [02-SEP-2020]
+	UPDATES AS OF [02-OCT-2020]
 	===========================
 	
 	DATASET		TARGET		RECORDED	UTTERANCES			
