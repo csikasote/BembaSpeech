@@ -23,6 +23,11 @@
 	-- fold17- xxx  sentences  - text from https://github.com/csikasote/speech-recognition-project/tree/master/bemba_speech_dataset
 	-- fold18- xxx  sentences  - text from 
 	-- fold19- xxx  sentences  - text from "Uwakalema Takaleka"
+	-- fold20- xxx  sentences  - text from 
+	-- fold21- xxx  sentences  - text from 
+	-- fold22- xxx  sentences  - text from 
+	-- fold23- xxx  sentences  - text from 
+	-- fold24- xxx  sentences  - text from  
 	
 	
 2. ** - MAIN TEXT FILE - **
@@ -31,7 +36,7 @@
 	
 3. ** - THE BEEN CORPUS FILE - **
 	-- fold[1-4,9,7] - UPDATED 13-09-2020 
-	-- Bemba sentences to be translated to english. To be updated!.
+	-- Bemba sentences to be translated to english. TBU!.
 
 4. ** SPEAKERS FOLDER**
    -- Nine (9) speakers engaged for recording speech in this project:
