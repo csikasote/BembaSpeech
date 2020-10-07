@@ -4,12 +4,13 @@
 
 A. CURATION RATIONALE
    ------------------
+   This dayaset was created fo
    
 
 
 B. LANGUAGE VARIABILITY
    --------------------
-   The language considered in this dataset is Bemba language of Zambia.
+   The data was collected from multiple sources; publicly available Bemba literature books, movie transcripts as well as TV/Radio programs transcripts, scrapped from websites
 
 C. SPEAKER DEMOGRAPHICS
    --------------------
@@ -17,10 +18,11 @@ C. SPEAKER DEMOGRAPHICS
 
 D. ANNOTATOR DEMOGRAPHICS
    ----------------------
-
+   N/A
 
 E. SPEECH SITUATION
    ----------------
+   There was no selection criteria in selecting the speakers in this corpus. The speakers for recording speech utterances from text were directly contacted.  
 
 
 F. TEXT CHARACTARISTICS
@@ -29,6 +31,7 @@ F. TEXT CHARACTARISTICS
 
 G. RECORDING QUALITY
    -----------------
+   For recording speech in this project, we used the Lig-Aikuma v18 mobile application.
 
 
 H. OTHERS

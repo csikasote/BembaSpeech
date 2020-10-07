@@ -6,10 +6,10 @@
 	-- fold3 - 600  sentences  - text extracted from the transcriptions of the local TV show 'Chintelelwe'
 	-- fold4 - 747  sentences  - text extracted from the ten (10) Bemba tales 
 					Link: https://mwelwaunisaphd.weebly.com/
-	-- fold5 - xxx  sentences  - text extracted from the 'Imamba Taifyala Imamba Ibiye' book by Alick Musonda (UNDER PROCESSING)
-	-- fold6 - xxx  sentences  - text extracted from the 'Imisango Yakwa Shi-Maini' book by Alick Musonda (UNDER PROCESSING)
+	-- fold5 - xxx  sentences  - text extracted from the 'Imamba Taifyala Imamba Ibiye' book by Alick Musonda (NOT INCLUDED)
+	-- fold6 - xxx  sentences  - text extracted from the 'Imisango Yakwa Shi-Maini' book by Alick Musonda (NOT INCLUDED)
 	-- fold7 - 535  sentences  - text extracted from the 'Kalulu Na Sunkutu Wa Milimo' book by Edward Sefuke
-	-- fold8 - xxx  sentences  - text extracted from the 'Ubuntugwa mu Jambo Jambo' book by Simon Kapwepwe (UNDER PROCESSING)
+	-- fold8 - xxx  sentences  - text extracted from the 'Ubuntugwa mu Jambo Jambo' book by Simon Kapwepwe (NOT INCLUDED)
 	-- fold9 - 121  sentences  - text extracted from the 'chintobentobe bemba programme on ZNBC'
 	-- fold10- 115  sentences  - text extracted from the 'Covid19 Ministry of Health' messages.
 	-- fold11- 287  sentences  - text extracted from the HealthTranslations 
@@ -21,13 +21,13 @@
 	-- fold15- 170  sentences  - text source TBU
 	-- fold16- xxx  sentences  - text extracted from the 'Natuleya-Lets Go!' magazines
 	-- fold17- xxx  sentences  - text from https://github.com/csikasote/speech-recognition-project/tree/master/bemba_speech_dataset
-	-- fold18- xxx  sentences  - text from 
-	-- fold19- xxx  sentences  - text from "Uwakalema Takaleka"
-	-- fold20- xxx  sentences  - text from 
-	-- fold21- xxx  sentences  - text from 
-	-- fold22- xxx  sentences  - text from 
-	-- fold23- xxx  sentences  - text from 
-	-- fold24- xxx  sentences  - text from  
+	-- fold18- xxx  sentences  - text from "xxxxxxxxxxxxxxxxxx" Bemba literature book
+	-- fold19- xxx  sentences  - text from "Uwakalema Takaleka" Bemba literature book
+	-- fold20- xxx  sentences  - text from "Amalibu Yakuilombela" Bemba literature book
+	-- fold21- xxx  sentences  - text from "Shamitombo" Bemba literature book
+	-- fold22- xxx  sentences  - text from "Mulenga Wa Mpanga" Bemba literature book
+	-- fold23- xxx  sentences  - text from "Uwaingila Mu Mushitu" Bemba literature book
+	-- fold24- xxx  sentences  - text from "Ku Bwaice" Bemba literature book
 	
 	
 2. ** - MAIN TEXT FILE - **
@@ -38,20 +38,23 @@
 	-- fold[1-4,9,7] - UPDATED 13-09-2020 
 	-- Bemba sentences to be translated to english. TBU!.
 
-4. ** SPEAKERS FOLDER**
+4. SPEAKERS
    -- Nine (9) speakers engaged for recording speech in this project:
-	-- Emmanuel - Male		- fold01
-	-- Karen    - Female		- fold07
-	-- Mpheza   - Female		- fold02 && fold22
-	-- Richard  - Male		- fold14
-	-- Victoria - Female		- fold13 && fold15 && fold16[Nat03] && fold18 && fold21
-	-- Brian    - Male		- fold03 && fold09 && fold16[Nat01, Nat02, Nat04] && fold19 && fold20
-	-- Prince   - Male		- fold04 && fold12
-	-- Mwenzi   - Female		- fold10 && fold11 [Done by Victoria]
-	-- Claytone - Male		- fold17
+	-- Emmanuel - Male		- fold[01, 04, 12]
+	-- Karen    - Female		- fold[07]
+	-- Mpheza   - Female		- fold[02, 22]  + McElise[F] + Billy[M]
+	-- Richard  - Male		- fold[14]
+	-- Victoria - Female		- fold[13, 15, 10, 11, 16[Nat03], 18, 21]
+	-- Brian    - Male		- fold[03, 09, 16[Nat01, Nat02, Nat04], 19, 20]
+	-- Claytone - Male		- fold[17]
 
-5. RECORDINGS
-	-- fold23 and fold24 - to be assigned for recording
-	-- fold20, fold21 and fold22 - recording in progress
+5. RECORDINGS: 
+	-- In progress: fold[21, 22, 23, 24]
+	-- Expected 
+
+6. TO PAY:
+	-- Brian - fold[20] [23, 24] - [K150 + K300]
+	-- Victoria - fold[18,21]- [K300 + 100]
+	-- Mpheza - fold[22] - [k300]
 
 
