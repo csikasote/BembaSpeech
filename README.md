@@ -1,13 +1,13 @@
 # bemba-language-corpus
 
 
-	UPDATES AS OF [07-OCT-2020]
+	UPDATES AS OF [08-OCT-2020]
 	===========================
 	
 	DATASET		TARGET		RECORDED	UTTERANCES	STATUS			
 	-------		------		--------	----------	------
 	- Train		20Hrs		20:35:51	~ 12, 500	100.0%		
-	- Valid		02Hrs		01:38:53	~ 700		85.0%
+	- Valid		02Hrs		02:52:52	~ 1555		100.0%
 	- Test		01Hrs		TBU		TBU		00.0%
 	
 	
