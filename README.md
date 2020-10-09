@@ -7,7 +7,7 @@
 	DATASET		TARGET		RECORDED	UTTERANCES	STATUS			
 	-------		------		--------	----------	------
 	- Train		20Hrs		20:35:51	~ 12, 500	100.0%		
-	- Valid		02Hrs		02:52:52	~ 1, 555	100.0%
+	- Valid		02Hrs		02:52:52	~ 01, 555	100.0%
 	- Test		01Hrs		TBU		TBU		00.0%
 	
 	
