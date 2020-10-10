@@ -1,4 +1,4 @@
-# Data Statement for XX
+# Data Statement for Bemba-ASR-Corpus
 
 > **How to use this document:**
 > Fill in each section according to the instructions. Give as much detail as you can, but there's no need to extrapolate. The goal is to help people understand your data when they approach it. This could be someone looking at it in ten years, or it could be you yourself looking back at the data in two years.
@@ -9,15 +9,15 @@
 
 > Only blockquoted content should be deleted; the final about statement should be left intact.
 
-Data set name: XX
+Data set name: Bemba-ASR-Corpus
 
-Citation (if available):
+Citation (if available): N/A
 
-Data set developer(s): 
+Data set developer(s): Claytone Sikasote
 
-Data statement author(s):
+Data statement author(s): Claytone Sikasote
 
-Others who contributed to this document:
+Others who contributed to this document: Antonis Anastaposoulos
 
 ## A. CURATION RATIONALE 
 
