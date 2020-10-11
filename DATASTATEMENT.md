@@ -1,7 +1,5 @@
 # Data Statement for Bemba-ASR-Corpus
 
-> **How to use this document:**
-
 Data set name: Bemba-ASR-Corpus
 
 Citation (if available): N/A
@@ -24,7 +22,8 @@ Others who contributed to this document: Antonis Anastaposoulos
 
 > Speakers were directly approached to create audio utterances by eliciting text scripts in the Lig-Aikuma mobile application. The speakers were selected based on their fluency to speak and read Bemba and not necessarily native language speakers. It is, however, expected that some, but not all, of the speakers speak Bemba as a native language. They were ten speakers of which five are male and five female. Based on the information provided for in the metadata by the speakers, almost all speakers were aged between 22 and 28 years and, all of them arfe identified to be black. In terms of occupation, all the speakers are university students. 
  
-## D. ANNOTATOR DEMOGRAPHIC: N/A
+## D. ANNOTATOR DEMOGRAPHIC
+> Annotator demographic information does not exist in this dataset.
 
 ## E. SPEECH SITUATION
 
@@ -45,12 +44,3 @@ Others who contributed to this document: Antonis Anastaposoulos
 ## I. PROVENANCE APPENDIX
 
 > Nothing contained in this dataset has been gotten from an already existing dataset. Therfore, provenance appendix does not exist.
-
-
-## About this document
-
-A data statement is a characterization of a dataset that provides context to allow developers and users to better understand how experimental results might generalize, how software might be appropriately deployed, and what biases might be reflected in systems built on the software.
-
-Data Statements are from the University of Washington. Contact: [datastatements@uw.edu](mailto:datastatements@uw.edu). This document template is licensed as [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
-
-This version of the markdown Data Statement is from June 4th 2020. The Data Statement template is based on worksheets distributed at the [2020 LREC workshop on Data Statements](https://sites.google.com/uw.edu/data-statements-for-nlp/), by Emily M. Bender, Batya Friedman, and Angelina McMillan-Major. Adapted to community Markdown template by Leon Dercyznski.
