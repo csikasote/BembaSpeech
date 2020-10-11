@@ -1,13 +1,6 @@
 # Data Statement for Bemba-ASR-Corpus
 
 > **How to use this document:**
-> Fill in each section according to the instructions. Give as much detail as you can, but there's no need to extrapolate. The goal is to help people understand your data when they approach it. This could be someone looking at it in ten years, or it could be you yourself looking back at the data in two years.
-
-> For full details, the best source is the original Data Statements paper, here: https://www.aclweb.org/anthology/Q18-1041/ .
-
-> Instruction fields are given as blockquotes; delete the instructions when you're done, and provide the file with your data, for example as "DATASTATEMENT.md". The lists in some blocks are designed to be filled in, but it's good to also leave a written description of what's happening, as well as the list. It's fine to skip some fields if the information isn't known.
-
-> Only blockquoted content should be deleted; the final about statement should be left intact.
 
 Data set name: Bemba-ASR-Corpus
 
@@ -21,67 +14,37 @@ Others who contributed to this document: Antonis Anastaposoulos
 
 ## A. CURATION RATIONALE 
 
-> *Explanation.* Which texts were included and what were the goals in selecting texts, both in the original collection and in any further sub-selection? This can be especially important in datasets too large to thoroughly inspect by hand. An explicit statement of the curation rationale can help dataset users make inferences about what other kinds of texts systems trained with them could conceivably generalize to.
+> The Bemba-ASR-Corpus is an automatic speech recognition(ASR) dataset for Bemba language based on speech utterances recorded from text obtained mostly from Bemba literature books.  The dataset has over 15, 000 utterances culminating into 25hours of speech data. The motivation for building the Bemba-ASR-Corpus is to create a speech recognition dataset for Bemba language that can be used to train speech recognition downstream tasks on. 
 
 ## B. LANGUAGE VARIETY/VARIETIES
 
-> *Explanation.* Languages differ from each other in structural ways that can interact with NLP algorithms. Within a language, regional or social dialects can also show great variation (Chambers and Trudgill, 1998). The language and language variety should be described with a language tag from BCP-47 identifying the language variety (e.g., en-US or yue-Hant-HK), and a prose description of the language variety, glossing the BCP-47 tag and also providing further information (e.g., "English as spoken in Palo Alto, California", or "Cantonese written with traditional characters by speakers in Hong Kong who are bilingual in Mandarin").
-
-* BCP-47 language tag: 
-* Language variety description: 
+> The language considered in this corpus is Bemba (ISO 639-3 bem). Bemba is a bantu languages native to north-eastern Zambia. The language is also spoken in some parts of Democratic Republic of Congo, Tanzania as well as Botswana.
 
 ## C. SPEAKER DEMOGRAPHIC
 
-> *Explanation.* Sociolinguistics has found that variation (in pronunciation, prosody, word choice, and grammar) correlates with speaker demographic characteristics (Labov, 1966), as speakers use linguistic variation to construct and project identities (Eckert and Rickford, 2001). Transfer from native languages (L1) can affect the language produced by non-native (L2) speakers (Ellis, 1994, Ch. 8). A further important type of variation is disordered speech (e.g., dysarthria). Specifications include: 
-
-* Description: 
-* Age: 
-* Gender: 
-* Race/ethnicity (according to locally appropriate categories): 
-* First language(s): 
-* Socioeconomic status: 
-* Number of different speakers represented: 
-* Presence of disordered speech: 
+> Speakers were directly approached to create audio utterances by eliciting text scripts in the Lig-Aikuma mobile application. The speakers were selected based on their fluency to speak and read Bemba and not necessarily native language speakers. It is, however, expected that some, but not all, of the speakers speak Bemba as a native language. They were ten speakers of which five are male and five female. Based on the information provided for in the metadata by the speakers, almost all speakers were aged between 22 and 28 years and, all of them arfe identified to be black. In terms of occupation, all the speakers are university students. 
  
-## D. ANNOTATOR DEMOGRAPHIC
-
-> *Explanation.* What are the demographic characteristics of the annotators and annotation guideline developers? Their own “social address” influences their experience with language and thus their perception of what they are annotating. Specifications include:
-
-* Description: 
-* Age: 
-* Gender: 
-* Race/ethnicity (according to locally appropriate categories): 
-* First language(s): 
-* Training in linguistics/other relevant discipline: 
-
+## D. ANNOTATOR DEMOGRAPHIC: N/A
 
 ## E. SPEECH SITUATION
 
-> *Explanation.* Characteristics of the speech situation can affect linguistic structure and patterns at many levels. The intended audience of a linguistic performance can also affect linguistic choices on the part of speakers. The time and place provide broader context for understanding how the texts collected relate to their historical moment and should also be made evident in the data statement. Specifications include:
-
-* Description: 
-* Time: 
-* Place: 
-* Modality (spoken/signed, written): 
-* Scripted/edited vs. spontaneous: 
-* Synchronous vs. asynchronous interaction: 
-* Intended audience: 
+> The corpus comprises of the speech utterances that were recorded from scripts using the Lig-Aikuma application using the text elicitation mode. The recordings were done in Zambia at the University of Zambia between 20th August, 2020 and 12th October, 2020.
 
 ## F. TEXT CHARACTERISTICS
 
-> *Explanation.* Both genre and topic influence the vocabulary and structural characteristics of texts (Biber, 1995), and should be specified.
+> Most of the text in the dataset is from private and publicly available Bemba literature books. Some of it was obtained from transcriptions of movies and recorded TV/radio programs. A small portion of approximately 5% was obtained from a Christian magazine. 
 
 ## G. RECORDING QUALITY
 
-> *Explanation.* For data that include audiovisual recordings, indicate the quality of the recording equipment and any aspects of the recording situation that could impact recording quality.
+> The audio utterances were recorded using the Lig-Aikuma mobile application by eliciting texts that are tokenized at sentence level. Almost all recordings were not done in closed and soundproof environment. Therefore, It is expected that there would be some background noise.
 
 ## H. OTHER
 
-> *Explanation.* There may be other information of relevance as well. Please use this space to develop any further categories that are relevant for your dataset. 
+> Some of the texts contained in this dataset have been used without permission. Written already to copyrights onwers waiting for their response. 
 
 ## I. PROVENANCE APPENDIX
 
-> *Explanation.* For datasets built out of existing datasets, the data statements for the source datasets should be included as an appendix.
+> Nothing contained in this dataset has been gotten from an already existing dataset. Therfore, provenance appendix does not exist.
 
 
 ## About this document
