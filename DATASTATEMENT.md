@@ -1,14 +1,10 @@
 # Data Statement for Bemba-ASR-Corpus
 
-Data set name: Bemba-ASR-Corpus
-
-Citation (if available): N/A
-
-Data set developer(s): Claytone Sikasote
-
-Data statement author(s): Claytone Sikasote
-
-Others who contributed to this document: Antonis Anastaposoulos
+ Data set name: Bemba-ASR-Corpus
+ Citation (if available): N/A
+ Data set developer(s): Claytone Sikasote
+ Data statement author(s): Claytone Sikasote
+ Others who contributed to this document: Antonis Anastaposoulos
 
 ## A. CURATION RATIONALE 
 
