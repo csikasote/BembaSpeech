@@ -22,7 +22,7 @@
 > Speakers were directly approached to create audio utterances by eliciting text scripts in the Lig-Aikuma mobile application. The speakers were selected based on their fluency to speak and read Bemba and not necessarily native language speakers. It is, however, expected that some, but not all, of the speakers speak Bemba as a native language. They were ten speakers of which five are male and five female. Based on the information provided for in the metadata by the speakers, almost all speakers were aged between 22 and 28 years and, all of them arfe identified to be black. In terms of occupation, all the speakers are university students. 
  
 ## D. ANNOTATOR DEMOGRAPHIC
-> Annotator demographic information does not exist in this dataset.
+> Annotator demographic information is not available as the dataset does not contain any annotations.
 
 ## E. SPEECH SITUATION
 
