@@ -1,9 +1,6 @@
 # bemba-language-corpus
 	
 	
-	FILE ORGANIZATION
-	=================
-	
 	<bemba_language_corpus>
 		|
 		.-- README.md
