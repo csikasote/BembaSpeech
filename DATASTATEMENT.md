@@ -3,7 +3,7 @@
 
 > Citation (if available): N/A
 
-> Data set developer(s): Claytone Sikasote
+> Data set developer(s): Claytone Sikasote, Antonis Anastaposoulos
 
 > Data statement author(s): Claytone Sikasote
 
