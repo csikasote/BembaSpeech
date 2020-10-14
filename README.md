@@ -1,4 +1,4 @@
-# bemba-language-corpus
+# Bemba-ASR-Corpus
 
 	
 	DATASET   	TARGET		RECORDED	UTTERANCES	STATUS			
