@@ -1,0 +1,16 @@
+/storage/emulated/0/text/Session13.txt (line 35) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_34.wav
+/storage/emulated/0/text/Session13.txt (line 36) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_35.wav
+/storage/emulated/0/text/Session13.txt (line 37) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_36.wav
+/storage/emulated/0/text/Session13.txt (line 38) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_37.wav
+/storage/emulated/0/text/Session13.txt (line 39) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_38.wav
+/storage/emulated/0/text/Session13.txt (line 40) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_39.wav
+/storage/emulated/0/text/Session13.txt (line 41) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_40.wav
+/storage/emulated/0/text/Session13.txt (line 42) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_41.wav
+/storage/emulated/0/text/Session13.txt (line 43) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_42.wav
+/storage/emulated/0/text/Session13.txt (line 44) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_43.wav
+/storage/emulated/0/text/Session13.txt (line 45) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_44.wav
+/storage/emulated/0/text/Session13.txt (line 46) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_45.wav
+/storage/emulated/0/text/Session13.txt (line 47) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_46.wav
+/storage/emulated/0/text/Session13.txt (line 48) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_47.wav
+/storage/emulated/0/text/Session13.txt (line 49) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_48.wav
+/storage/emulated/0/text/Session13.txt (line 50) ; /storage/emulated/0/ligaikuma/recordings/200916-144736_bem_a40_elicit/200916-144736_bem_a40_elicit_49.wav
