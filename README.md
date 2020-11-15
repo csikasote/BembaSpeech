@@ -1,7 +1,7 @@
-# Data Statements for Bemba-ASR-Corpus
+# Bemba-ASR-Corpus
 
 ### Introduction
-The Bemba-ASR-Corpus is an automatic speech recognition(ASR) dataset for Bemba language based on speech utterances recorded from text obtained mostly from      Bemba  literature books.  The dataset has over 14, 000 utterances culminating into 24hours of speech data. The motivation for building the Bemba-ASR-Corpus is to create a speech recognition dataset for Bemba language that can be used to train and test speech recognition systems.
+The Bemba-ASR-Corpus is an automatic speech recognition(ASR) dataset for Bemba language based on speech utterances recorded from text scripts obtained mostly from      Bemba  literature books.  The dataset has over 14, 000 utterances culminating into 24hours of speech data. The motivation for building the Bemba-ASR-Corpus is to create a speech recognition dataset for Bemba language that can be used to train and test speech recognition systems.
 
 ### Dataset definition
 The corpus is divided into training/validation/test datasets. In each dataset, there are three types of files:
