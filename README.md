@@ -1,6 +1,6 @@
 ## Bemba ASR Corpus
 
-1. Introduction
+1. INTRODUCTION
 
 ----------------------
 
@@ -8,7 +8,7 @@ BembaSpeech is a corpus of read speech in Bemba language of Zambia, based on pub
 
 All signal files are encoded in Waveform Audio File Format (WAVE) from a mono recording with a sample rate of 16K Hz.
 
-2. Structure
+2. STRUCTURE
 
 -------------
 
@@ -25,7 +25,7 @@ The corpus is split into three parts; train, dev, test. The subsets are disjoint
     --------------------------------------------------------
     
 
-3. Organization
+3. ORGANIZATION
 
 ----------------
 
@@ -60,6 +60,7 @@ The corpus is split into three parts; train, dev, test. The subsets are disjoint
 where train is the subset name, 01 is the speaker_id of the reader, 180101-020249_bem_d31_elicit are recording session of the speakers/readers. The *_transcript.txt files contain the transcripts for each of the utterances, in the form, <utterance_id> <transcription>. The *_text_script.txt files contains raw text tokenized by sentences from which the speakers read from into the Lig-Aikuma mobile software.
 
 
+-----------------
 // Prepared By:
 
 Claytone Sikasote, 
