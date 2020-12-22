@@ -62,7 +62,7 @@ where train is the subset name, 01 is the speaker_id of the reader, 180101-02024
 
 // Prepared By:
 
-Claytone Sikasote
-17-12-2020 | 03:10PM
+Claytone Sikasote, 
+17-12-2020 | 03:10PM, 
 Lusaka, Zambia
 
