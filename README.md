@@ -72,6 +72,8 @@ The corpus file organization is as follows:
 * *_transcripts.txt files contains the transcripts for each of the utterances, in the form, <utterance_id> <transcription>. 
 * The *_text_script.txt files contains raw text tokenized by sentences from which the speakers read from into the Lig-Aikuma mobile software, <transcription>
 * SPEAKERS.TXT contains information about speaker's gender and total amount of audio in the corpus.
+* DATASTATEMENT.md has contextual information to the creation of this dataset in detail
+* README.TXT is the text version of the README.md.
 
 
 -----------------
