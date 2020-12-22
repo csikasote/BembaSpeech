@@ -12,7 +12,13 @@ All signal files are encoded in Waveform Audio File Format (WAVE) from a mono re
 
 -------------
 
-The corpus is split into three parts; train, dev, test. The subsets are disjoint, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker is as follows:
+The corpus is split into three parts:
+
+* train - for training 
+* dev   - for validation
+* test  - for testing 
+
+These subsets are disjointed, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker contribution is as follows:
 
     --------------------------------------------------------
     | NAME  | 	SPEAKER ID          | DURATION   |
