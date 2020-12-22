@@ -67,10 +67,10 @@ The corpus file organization is as follows:
 
 
 * train - is the dataset subset name, 
-* 01    - is the speaker_id of the reader
-* 180101-020249_bem_d31_elicit  - is the recording session of the speakers/reader. 
-* *_transcripts.txt files - contain the transcripts for each of the utterances, in the form, <utterance_id> <transcription>. 
-* The *_text_script.txt files   -  raw text tokenized by sentences from which the speakers read from into the Lig-Aikuma mobile software.
+* 01    - is the speaker_id of the speaker
+* 180101-020249_bem_d31_elicit is the recording session of the speaker. 
+* *_transcripts.txt files contains the transcripts for each of the utterances, in the form, <utterance_id> <transcription>. 
+* The *_text_script.txt files contains raw text tokenized by sentences from which the speakers read from into the Lig-Aikuma mobile software, <transcription>
 * SPEAKERS.TXT contains information about speaker's gender and total amount of audio in the corpus.
 
 
