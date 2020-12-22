@@ -14,9 +14,9 @@ All signal files are encoded in Waveform Audio File Format (WAVE) from a mono re
 
 The corpus is split into three parts:
 
-* *train* - training set, of approximately 20 hours of speech 
-* *dev*   - development set, of approximately 2.5 hours of speech
-* *test*  - testing set, of approximately 2 hours of speech
+* [train](BembaSpeech/train) - training set, of approximately 20 hours of speech 
+* [dev](BembaSpeech/dev)   - development set, of approximately 2.5 hours of speech
+* [test](BembaSpeech/test)  - testing set, of approximately 2 hours of speech
 
 These subsets are disjointed, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker contribution is as follows:
 
@@ -72,7 +72,7 @@ The corpus file organization is as follows:
 * **_transcripts.txt** files contains the transcripts for each of the utterances [<utterance_id transcript>]. 
 * [SPEAKERS.TXT](SPEAKERS.TXT) contains information about speaker's gender and total amount of audio in the corpus.
 * [DATASTATEMENT.md](DATASTATEMENT.md) has contextual information to the creation of this dataset in detail
-* [README.TXT](README.TXT)** is the text version of the README.md.
+* [README.TXT](README.TXT) is the text version of the README.md.
 
 
 -----------------
