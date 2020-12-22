@@ -66,13 +66,13 @@ The corpus file organization is as follows:
                	    
 
 ------------------
-* **train** - is the dataset subset name, 
+* [train](BembaSpeech/train) - is the train dataset subset name
 * **01**    - is the speaker_id of the speaker
 * **180101-020249_bem_d31_elicit** is the recording session of the speaker. 
 * **_transcripts.txt** files contains the transcripts for each of the utterances [<utterance_id transcript>]. 
-* **SPEAKERS.TXT** contains information about speaker's gender and total amount of audio in the corpus.
-* **DATASTATEMENT.md** has contextual information to the creation of this dataset in detail
-* [README.TXT](TEXTME.TXT)** is the text version of the README.md.
+* [SPEAKERS.TXT](SPEAKERS.TXT) contains information about speaker's gender and total amount of audio in the corpus.
+* [DATASTATEMENT.md](DATASTATEMENT.md) has contextual information to the creation of this dataset in detail
+* [README.TXT](README.TXT)** is the text version of the README.md.
 
 
 -----------------
