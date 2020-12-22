@@ -14,9 +14,9 @@ All signal files are encoded in Waveform Audio File Format (WAVE) from a mono re
 
 The corpus is split into three parts:
 
-* train - training set, of approximately 20 hours of speech 
-* dev   - development set, of approximately 2.5 hours of speech
-* test  - testing set, of approximately 2 hours of speech
+* *train* - training set, of approximately 20 hours of speech 
+* *dev*   - development set, of approximately 2.5 hours of speech
+* *test*  - testing set, of approximately 2 hours of speech
 
 These subsets are disjointed, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker contribution is as follows:
 
