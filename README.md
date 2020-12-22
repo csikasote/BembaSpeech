@@ -38,7 +38,7 @@ The corpus file organization is as follows:
 
     <corpus root>
         |
-        .- DATASTATEMENT.md
+        .- DATASTATEMENT.docx
         |
         .- README.TXT
         |
