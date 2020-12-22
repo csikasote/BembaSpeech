@@ -31,7 +31,7 @@ These subsets are disjointed, i.e. the audio of each speaker is assigned to exac
     --------------------------------------------------------
     
 
-3. ORGANIZATION
+3. FILE ORGANIZATION
 
 ----------------
 The corpus file organization is as follows:
