@@ -64,6 +64,8 @@ The corpus file organization is as follows:
         |           	    | ...
         . ...
                	    
+
+
 * train - is the dataset subset name, 
 * 01    - is the speaker_id of the reader
 * 180101-020249_bem_d31_elicit  - is the recording session of the speakers/reader. 
