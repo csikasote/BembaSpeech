@@ -69,7 +69,7 @@ The corpus file organization is as follows:
 * train - is the dataset subset name, 
 * 01    - is the speaker_id of the speaker
 * 180101-020249_bem_d31_elicit is the recording session of the speaker. 
-* *_transcripts.txt files contains the transcripts for each of the utterances, in the form, <utterance_id> <transcription>. 
+* *_transcripts.txt files contains the transcripts for each of the utterances [<utterance_id> <transcription>]. 
 * SPEAKERS.TXT contains information about speaker's gender and total amount of audio in the corpus.
 * DATASTATEMENT.md has contextual information to the creation of this dataset in detail
 * README.TXT is the text version of the README.md.
