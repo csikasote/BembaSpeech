@@ -77,7 +77,7 @@ The corpus file organization is as follows:
 
 
 -----------------
-// Prepared By:
+Prepared By:
 
 Claytone Sikasote, 
 17-12-2020 | 03:10PM, 
