@@ -63,7 +63,11 @@ These subsets are disjointed, i.e. the audio of each speaker is assigned to exac
         |           	    | ...
         . ...
                	    
-where train is the subset name, 01 is the speaker_id of the reader, 180101-020249_bem_d31_elicit are recording session of the speakers/readers. The *_transcript.txt files contain the transcripts for each of the utterances, in the form, <utterance_id> <transcription>. The *_text_script.txt files contains raw text tokenized by sentences from which the speakers read from into the Lig-Aikuma mobile software.
+* train - is the dataset subset name, 
+* 01    - is the speaker_id of the reader
+* 180101-020249_bem_d31_elicit  - is the recording session of the speakers/reader. 
+* *_transcripts.txt files - contain the transcripts for each of the utterances, in the form, <utterance_id> <transcription>. 
+* The *_text_script.txt files   -  raw text tokenized by sentences from which the speakers read from into the Lig-Aikuma mobile software.
 
 
 -----------------
