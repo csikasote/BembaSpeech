@@ -68,6 +68,7 @@ These subsets are disjointed, i.e. the audio of each speaker is assigned to exac
 * 180101-020249_bem_d31_elicit  - is the recording session of the speakers/reader. 
 * *_transcripts.txt files - contain the transcripts for each of the utterances, in the form, <utterance_id> <transcription>. 
 * The *_text_script.txt files   -  raw text tokenized by sentences from which the speakers read from into the Lig-Aikuma mobile software.
+* SPEAKERS.TXT contains information about speaker's gender and total amount of audio in the corpus.
 
 
 -----------------
