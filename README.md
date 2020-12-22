@@ -72,7 +72,7 @@ The corpus file organization is as follows:
 * **_transcripts.txt** files contains the transcripts for each of the utterances [<utterance_id transcript>]. 
 * **SPEAKERS.TXT** contains information about speaker's gender and total amount of audio in the corpus.
 * **DATASTATEMENT.md** has contextual information to the creation of this dataset in detail
-* **README.TXT** is the text version of the README.md.
+* [README.TXT](TEXTME.TXT)** is the text version of the README.md.
 
 
 -----------------
