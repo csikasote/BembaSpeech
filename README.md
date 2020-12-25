@@ -20,15 +20,15 @@ The corpus is split into three parts:
 
 These subsets are disjointed, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker contribution is as follows:
 
-    --------------------------------------------------------------------------------------------------------
-    | NAME  |	DURATION	| 		SPEAKER ID		|   GENDER PROPORTIONALITY     |
-    --------------------------------------------------------------------------------------------------------
-    | Train |	~ 20:05:09 	| 01, 03, 04, 05, 07, 08, 09, 10	|   Male: {5}, Female: {3}     |
-    .-------------------------------------------------------------------------------------------------------
-    | Dev	|	~ 2:27:20	| 02, 11, 13, 14, 15, 16, 17		|   Male: {3}, Female: {3}     | 
-    .-------------------------------------------------------------------------------------------------------
-    | Test	|	~ 2:03:03	| 06, 12				|   Male: {1}, Female: {1}     |
-    --------------------------------------------------------------------------------------------------------
+    -----------------------------------------------------------------------------------------------------
+    | NAME  |	DURATION	| 		SPEAKER ID		|   GENDER PROPORTIONALITY  |
+    -----------------------------------------------------------------------------------------------------
+    | Train |	~ 20:05:09 	| 01, 03, 04, 05, 07, 08, 09, 10	|   Male: {5}, Female: {3}  |
+    .----------------------------------------------------------------------------------------------------
+    | Dev	|	~ 2:27:20	| 02, 11, 13, 14, 15, 16, 17		|   Male: {3}, Female: {3}  | 
+    .----------------------------------------------------------------------------------------------------
+    | Test	|	~ 2:03:03	| 06, 12				|   Male: {1}, Female: {1}  |
+    -----------------------------------------------------------------------------------------------------
     
 
 3. FILE ORGANIZATION
@@ -72,7 +72,7 @@ The corpus file organization is as follows:
 * **_transcripts.txt** files contains the transcripts for each of the utterances [<utterance_id transcript>]. 
 * **_raw_script.txt** files contains the text from which readers read from to create audio. [<transcripts>]
 * [SPEAKERS.TXT](BembaSpeech/SPEAKERS.TXT) contains information about speaker's gender and total amount of audio in the corpus.
-* [DATASTATEMENT](BembaSpeech/DATASTATEMENT.docx) has contextual information to the creation of this dataset in detail
+* [DATASTATEMENT](BembaSpeech/DATASTATEMENT.pdf) has contextual information to the creation of this dataset in detail
 * [README.TXT](BembaSpeech/README.TXT) is the text version of the [README.md](README.md).
 
 
