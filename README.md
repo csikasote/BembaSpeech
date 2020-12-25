@@ -21,7 +21,7 @@ The corpus is split into three parts:
 These subsets are disjointed, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker contribution is as follows:
 
     --------------------------------------------------------------------------------------------------------
-    | NAME  |	DURATION	| 		SPEAKER ID		|   GENDER PROPORTIONALITY      |
+    | NAME  |	DURATION	| 		SPEAKER ID		|   GENDER PROPORTIONALITY     |
     --------------------------------------------------------------------------------------------------------
     | Train |	~ 20:05:09 	| 01, 03, 04, 05, 07, 08, 09, 10	|   Male: {5}, Female: {3}     |
     .-------------------------------------------------------------------------------------------------------
