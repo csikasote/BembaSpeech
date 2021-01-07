@@ -62,7 +62,7 @@ The corpus file organization is as follows:
         |           |
         .           .- 180101-020249_bem_d31_elicit/
         |           	    |
-        . ...               .- ...
+        . ...                   .- ...
                	    
 
 ------------------
