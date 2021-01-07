@@ -18,7 +18,7 @@ The corpus is split into three parts:
 * [dev](BembaSpeech/dev)   - development set, of approximately 2.5 hours of speech
 * [test](BembaSpeech/test)  - testing set, of approximately 2 hours of speech
 
-These subsets are disjointed, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker contribution is as follows:
+These subsets are disjoint, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker contribution is as follows:
 
     _____________________________________________________________________________________________________
     | NAME  |	DURATION	| 		SPEAKER ID		|   GENDER PROPORTIONALITY  |
