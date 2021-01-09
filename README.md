@@ -50,7 +50,7 @@ The corpus file organization is as follows:
         |           |
         .           .- 180101-020137_bem_d31_elicit - /
         |           |	    |
-        .           .	    .- 01-180101-020137_bem_d31_elicit_raw_script.txt
+        .           .	    .- 01-180101-020137_bem_d31_elicit_text_script.txt
         |           |	    |
         .           .	    .- 01-180101-020137_bem_d31_elicit_transcript.txt
         |           |	    |    
