@@ -4,25 +4,24 @@ The meaning of the fields in left-to-right order is as follows:
 * gender 	- 'F' for female, 'M' for male
 * name 	- the name of the speaker/reader from metadata
 
- -------------------------------------------
- | ID   |SEX| DURATION | 	NAME        |         
- -------------------------------------------
- | 01   | M | 09:49:02 | Brian Chabala     |
- | 02   | M | 01:15:20 | Richard Sikapili  | 
- | 03   | F | 05:03:44	| Victoria Mwaba    | 
- | 04   | F | 01:09:27 | Mpheza Sakala     | 
- | 05   | M | 01:56:59 | Jackson           | 
- | 06   | F | 00:38:14 | Karen Kapambwe    |
- | 07   | F | 00:13:57 | Mary Mubanga      |
- | 08   | M | 00:03:09 | Noel Mwape        |
- | 09   | M | 00:08:26 | Emmanuel Chungu   |
- | 10   | M | 00:03:48 | Billy Simushi     |
- | 11   | F | 00:28:14 | Abigail Chongo    |
- | 12   | M | 01:24:48 | Mwelwa Obed       |
- | 13   | M | 00:09:59 | Mwansa Kalosha    |
- | 14   | F | 00:05:10 | Josephine Makumba |
- | 15   | M | 00:06:18 | Chibesa Nyirenda  |
- | 16   | F | 00:02:18 | Angela Chewe      | 
- | 17   | F | 00:11:51 | McElise           |
- ------------------------------------------- 
-
+ -------------------------------------------------------------------------
+ | ID   |SEX| 	UTTERANCES	| 	DURATION	| 	NAME       |         
+ -------------------------------------------------------------------------
+ | 01   | M | 	5723		|	10:36:30 	| 	Brian      |
+ | 02   | M | 	954		|	01:15:20 	| 	Richard    | 
+ | 03   | F | 	3117		|	05:03:44 	| 	Victoria   | 
+ | 04   | F | 	853		|	01:09:27 	| 	Mpheza     | 
+ | 05   | M | 	1877		|	01:56:59 	| 	Jackson    | 
+ | 06   | F | 	382		|	00:38:14 	| 	Karen      |
+ | 07   | F | 	148		|	00:13:57 	| 	Mary       |
+ | 08   | M | 	45		|	00:03:09 	| 	Noel       |
+ | 09   | M | 	94		|	00:08:26 	| 	Emmanuel   |
+ | 10   | M | 	49		|	00:03:48 	| 	Billy      |
+ | 11   | F | 	242		|	00:28:14 	| 	Abigail    |
+ | 12   | M | 	595		|	01:24:48 	| 	Mwelwa     |
+ | 13   | M | 	58		|	00:09:59 	| 	Mwansa     |
+ | 14   | F | 	40		|	00:05:10 	| 	Josephine  |
+ | 15   | M | 	44		|	00:06:18 	| 	Chibesa    |
+ | 16   | F | 	23		|	00:02:18 	| 	Angela     | 
+ | 17   | F | 	194		|	00:11:51 	| 	McElise    |
+ -------------------------------------------------------------------------
