@@ -4,7 +4,7 @@ The meaning of the fields in left-to-right order is as follows:
 * gender 	- 'F' for female, 'M' for male
 * name 	- the name of the speaker/reader from metadata
 
- -------------------------------------------------------------------------
+ -----------------------------------------------------------------------------
  | ID   |SEX| 	UTTERANCES	| 	DURATION	| 	NAME       |         
  -------------------------------------------------------------------------
  | 01   | M | 	5723		|	10:36:30 	| 	Brian      |
