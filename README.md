@@ -71,7 +71,7 @@ The corpus file organization is as follows:
 * **180101-020249_bem_d31_elicit** is the recording session of the speaker. 
 * **_transcripts.txt** files contains the transcripts for each of the utterances [<utterance_id transcript>]. 
 * **_raw_script.txt** files contains the text from which readers read from to create audio. [<transcripts>]
-* [SPEAKERS.TXT](BembaSpeech/SPEAKERS.TXT) contains information about speaker's gender and total amount of audio in the corpus.
+* [SPEAKERS.TXT](BembaSpeech/SPEAKERS.TXT) contains speaker information and their contributuion to the corpus.
 * [DATASTATEMENT](BembaSpeech/DATASTATEMENT.pdf) has contextual information to the creation of this dataset in detail
 * [README.TXT](BembaSpeech/README.TXT) is the text version of the [README.md](README.md).
 
