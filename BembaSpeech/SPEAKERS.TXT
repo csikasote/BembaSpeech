@@ -1,8 +1,10 @@
 The meaning of the fields in left-to-right order is as follows:
 
-* speaker_id 	- the ID of the reader
-* gender 	- 'F' for female, 'M' for male
-* name 	- the name of the speaker/reader from metadata
+* ID   - the ID of the speaker
+* SEX 	- 'F' for female, 'M' for male
+* UTTERANCES - Number of utterances recorded by the speaker
+* DURATION   - The total duration the speaker contributed to the corpus
+* NAME       - The first name of the speaker as extracted from the metadata files
 
  ---------------------------------------------------------------------------
  | ID   |SEX| 	UTTERANCES	| 	DURATION	| 	NAME       |         
