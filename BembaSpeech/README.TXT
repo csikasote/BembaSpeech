@@ -9,13 +9,13 @@ BembaSpeech is a corpus of read speech in Bemba language of Zambia, based on pub
 The corpus is split into three parts; train, dev, test. The subsets are disjoint, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker is as follows:
 
 ---------------------------------------------------------------------------------------------------------
-| NAME  |	DURATION	| UNITS  | 		SPEAKERS		| GENDER PROPORTIONALITY   |
+| NAME  |	DURATION	| UNITS  | 		SPEAKERS		| GENDER PROPORTIONALITY |
 ---------------------------------------------------------------------------------------------------------
-| Train |	~ 20:05:09 	| 11,906 | 01, 03, 04, 05, 07, 08, 09, 10	| Male {5}, Female {3}     |
+| Train |	~ 20:05:09 	| 11,906 | 01, 03, 04, 05, 07, 08, 09, 10	| Male {5}, Female {3}   |
 .--------------------------------------------------------------------------------------------------------
-| Dev	|	~ 2:27:20	| 1,555  | 02, 11, 13, 14, 15, 16, 17		| Male {3}, Female {3}     | 
+| Dev	|	~ 2:27:20	| 1,555  | 02, 11, 13, 14, 15, 16, 17		| Male {3}, Female {3}   | 
 .--------------------------------------------------------------------------------------------------------
-| Test	|	~ 2:03:03	| 977    | 06, 12				| Male {1}, Female {1}     |
+| Test	|	~ 2:03:03	| 977    | 06, 12				| Male {1}, Female {1}   |
 ---------------------------------------------------------------------------------------------------------
 
 
