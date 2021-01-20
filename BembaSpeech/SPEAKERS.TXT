@@ -7,7 +7,7 @@ The meaning of the fields in left-to-right order is as follows:
 * NAME       - The first name of the speaker as extracted from the metadata files
 
  ---------------------------------------------------------------------------------------------
- | ID   |SEX| 	UTTERANCES	| 	DURATION	| 	NAME       | Native Language |         
+ | ID   |SEX| 	UTTERANCES	| 	DURATION	| 	NAME       | NATIVE LANGUAGE |         
  ---------------------------------------------------------------------------------------------
  | 01   | M | 	5723		|	10:36:30 	| 	Brian      |      Bemba      | 
  | 02   | M | 	954		|	01:15:20 	| 	Richard    |      Bemba      | 
