@@ -5,6 +5,7 @@ The meaning of the fields in left-to-right order is as follows:
 * UTTERANCES - Number of utterances recorded by the speaker
 * DURATION   - The total duration the speaker contributed to the corpus
 * NAME       - The first name of the speaker as extracted from the metadata files
+* NATIVE LANGUAGE       - The native language of the speaker as extracted from the metadata files
 
  ---------------------------------------------------------------------------------------------
  | ID   |SEX| 	UTTERANCES	| 	DURATION	| 	NAME       | NATIVE LANGUAGE |         
