@@ -1,4 +1,5 @@
-# Data Statement for Bemba-ASR-Corpus
+# Data Statement for BembaSpeech Dataset
+
 > Dataset name: BembaSpeech
 
 > Citation (if available): N/A
