@@ -38,7 +38,7 @@ The corpus file organization is as follows:
 
     <BembaSpeech>
         |
-        .- DATASTATEMENT.docx
+        .- DATASTATEMENT.md
         |
         .- README.TXT
         |
