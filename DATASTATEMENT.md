@@ -1,20 +1,20 @@
 # Data Statement for BembaSpeech Dataset
 
-> Dataset name: BembaSpeech
+> Dataset name: **BembaSpeech**
 
-> Citation (if available): N/A
+> Citation (if available): **N/A**
 
-> Data set developer(s): Claytone Sikasote, Antonios Anastasopoulos
+> Data set developer(s): **Claytone Sikasote, Antonios Anastasopoulos**
 
-> Data statement author(s): Claytone Sikasote, Antonios Anastasopoulos
+> Data statement author(s): **Claytone Sikasote, Antonios Anastasopoulos**
 
-> Others who contributed to this document: N/A
+> Others who contributed to this document: **N/A**
 
-> Link to the dataset:  https://github.com/csikasote/BembaSpeech 
+> Link to the dataset:  **https://github.com/csikasote/BembaSpeech** 
 
-> Dataset license:  Creative Commons BY-NC-ND 4.0 
+> Dataset license:  **Creative Commons BY-NC-ND 4.0** 
 
-> Total Number of hours: 24 hours
+> Total Number of hours: **24 hours**
 
 ## A. CURATION RATIONALE 
 
