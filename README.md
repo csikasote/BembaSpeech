@@ -1,4 +1,4 @@
-## Bemba ASR Corpus
+## BembaSpeech ASR Corpus
 
 1. INTRODUCTION
 
