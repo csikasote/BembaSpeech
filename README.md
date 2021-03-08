@@ -74,10 +74,20 @@ The corpus file organization is as follows:
 * [SPEAKERS.TXT](BembaSpeech/SPEAKERS.TXT) contains speaker information and their contributuion to the corpus.
 * [DATASTATEMENT](DATASTATEMENT.md) has contextual information to the creation of this dataset in detail
 
+4. REFERENCING
 -----------------
-Prepared By:
+If you use this speech dataset in your project or research, please consider citing:
 
-Claytone Sikasote, 
-17-12-2020 | 03:10PM, 
-Lusaka, Zambia
 
+    @inproceedings{sikasote-anastasopoulos21bembaspeech,
+        abstract = {We present a preprocessed, ready-to-use automatic speech recognition corpus, BembaSpeech, consisting over 24 hours of read speech in the Bemba language, a written but low-resourced language spoken by over 30% of the population in Zambia. To assess its usefulness for training and testing ASR systems for Bemba, we train an end-to-end Bemba ASR system by fine-tuning a pre-trained DeepSpeech English model on the training portion of the BembaSpeech corpus. Our best model achieves a word error rate (WER) of 54.78%. The results show that the corpus can be used for building ASR systems for Bemba.},
+        title = {BembaSpeech: A Speech Recognition Corpus for the Bemba Language},
+        author = {Sikasote, Claytone and Anastasopoulos, Antonios},
+        booktitle = {Proceedings of AfricaNLP},
+        address = {Online},
+        month = {April},
+        year = {2021},
+        url = {https://arxiv.org/pdf/2102.04889.pdf}
+    }
+
+-----------------
