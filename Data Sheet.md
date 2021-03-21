@@ -30,9 +30,23 @@
 
 ***Does the dataset contain all possible instances or is it a sample (not necessarily random) of instances from a larger set? If the dataset is a sample, then what is the larger set? Is the sample representative of the larger set (e.g., geographic coverage)? If so, please describe how this representativeness was validated/verified. If it is not representative of the larger set, please describe why not (e.g., to cover a more diverse range of instances, because instances were withheld or unavailable).***
 
+> ...
 
+***What data does each instance consist of? “Raw” data (e.g., unprocessed text or images)or features? In either case, please provide a description.***
 
-***What data does each instance consist of? “Raw” data (e.g., unprocessed text or images)or features? In either case, please provide a description.**
+> Each instance consist of audio files (wav format) with preprocessed and normalized transcriptions.
+
+***Is there a label or target associated with each instance? If so, please provide a description.***
+
+> Each audio file is associated with the transcription.
+
+***Is any information missing from individual instances? If so, please provide a description, explaining why this information is missing (e.g., because it was unavailable). This does not include intentionally removed information, but might include, e.g., redacted text.
+
+> Everything is included in the dataset.
+
+***Are relationships between individual instances made explicit (e.g., users’ movie ratings, social network links)? If so, please describe how these relationships are made explicit.***
+
+> 
 
 
 
