@@ -89,7 +89,3 @@ The corpus file organization is as follows:
 * [SPEAKERS.TXT](BembaSpeech/SPEAKERS.TXT) contains speaker information and their contributuion to the corpus.
 * [DATASTATEMENT](DATASTATEMENT.md) has contextual information to the creation of this dataset in detail
 
-## 📝 License
-
-Copyright © 2021 [Claytone Sikasote](https://github.com/csikasote). <br />
-This project is [MIT](https://github.com/avneesh0612/next-progress-bar/blob/main/LICENSE) licensed.
