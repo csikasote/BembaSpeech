@@ -55,7 +55,7 @@ The corpus file organization is as follows:
         |
         .- DATASTATEMENT.md
         |
-        .- README.TXT
+        .- README.md
         |
         .- SPEAKERS.TXT
         |
