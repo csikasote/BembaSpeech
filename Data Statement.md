@@ -33,11 +33,11 @@
 
 ## E. SPEECH SITUATION
 
-> The corpus comprises of the speech utterances that were recorded from scripts using the Lig-Aikuma application using the text elicitation mode. The recordings were done in Zambia at the University of Zambia between 20th August, 2020 and 12th October, 2020.
+> The corpus comprises of the speech utterances that were recorded from text scripts using the Lig-Aikuma application using the text elicitation mode. The recordings were done in Zambia at the University of Zambia between 20th August, 2020 and 12th October, 2020.
 
 ## F. TEXT CHARACTERISTICS
 
->  The phrases and sentences recorded were obtained from diverse text sources in Bemba language. No criteria was used in the selection of the text sources. Texts were obtained based on their public availability.
+>  The phrases and sentences contained in this dataset were obtained from diverse text sources in Bemba language. No criteria was used in the selection of the text sources. Texts were obtained based on their public availability.
 
 ## G. RECORDING QUALITY
 
