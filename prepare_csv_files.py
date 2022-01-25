@@ -44,8 +44,8 @@ def copy_audio_and_split_sentences(extracted_dir, data_set, dest_dir):
                     ds_time_size = ds_time_size + (wav_duration/3600)
                     # check for duration of the audio
                     shutil.copy2(src_wav_file, dst_wav_file)
-                    #files.append((os.path.abspath(dst_wav_file), transcript))
-                    files.append((seqid+".wav", wav_duration, transcript))
+                    files.append((os.path.abspath(dst_wav_file), wav_duration, transcript))
+                    #files.append((seqid+".wav", wav_duration, transcript))
                     
     set_df = pd.DataFrame(data=files, columns=["path", 'duration', "sentence"])
     return set_df, ds_time_size
