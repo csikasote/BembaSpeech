@@ -107,5 +107,5 @@ def preprocess_data(source_dir):
     
 
 if __name__ == "__main__":
-    source_dir = './BembaSpeech/bembaspeech'
+    source_dir = './BembaSpeech'
     preprocess_data(source_dir)
