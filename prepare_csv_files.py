@@ -95,7 +95,7 @@ def preprocess_data(source_dir):
         bar.update(2)
         test_clean.to_csv(os.path.join(data_dir, "test.csv"), sep = '\t', index=False)
         print('test.csv has been processed successfully!')
-        print('test set size: {:.2f} hrs'.format(train_size))
+        print('test set size: {:.2f} hrs'.format(test_size))
         print('No. of file:', len(test_clean))
         
         test_folder = os.path.join(data_dir, "test")
