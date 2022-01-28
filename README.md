@@ -88,7 +88,7 @@ The corpus file organization is as follows:
 
 ------------------------
     
-### 4. HOW TO CITE THE WORK
+### 4. HOW TO CITE
 
 ------------------------
 
@@ -105,3 +105,10 @@ If you use this speech dataset in your project or research, please consider citi
         url = {https://arxiv.org/pdf/2102.04889.pdf}
     }
     
+------------------------
+    
+### 5. LICENSE
+
+------------------------
+
+The corpus is made available to the research community licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license
