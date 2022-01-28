@@ -12,6 +12,14 @@ If you use this speech dataset in your project or research, please consider citi
         year = {2021},
         url = {https://arxiv.org/pdf/2102.04889.pdf}
     }
+    
+## How To Download and Prepare BembaSpeech
+
+To download the dataset and prepare the data/csv files follow the following commands:
+
+    > git clone https://github.com/csikasote/BembaSpeech.git 
+    > cd BembaSpeech
+    > python prepare.py
 
 -----------------
 
