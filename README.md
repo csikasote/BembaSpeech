@@ -1,29 +1,8 @@
 ## BembaSpeech ASR Corpus
 
-If you use this speech dataset in your project or research, please consider citing:
-
-    @inproceedings{sikasote-anastasopoulos21bembaspeech,
-        abstract = {We present a preprocessed, ready-to-use automatic speech recognition corpus, BembaSpeech, consisting over 24 hours of read speech in the Bemba language, a written but low-resourced language spoken by over 30% of the population in Zambia. To assess its usefulness for training and testing ASR systems for Bemba, we train an end-to-end Bemba ASR system by fine-tuning a pre-trained DeepSpeech English model on the training portion of the BembaSpeech corpus. Our best model achieves a word error rate (WER) of 54.78%. The results show that the corpus can be used for building ASR systems for Bemba.},
-        title = {BembaSpeech: A Speech Recognition Corpus for the Bemba Language},
-        author = {Sikasote, Claytone and Anastasopoulos, Antonios},
-        booktitle = {Proceedings of AfricaNLP},
-        address = {Online},
-        month = {April},
-        year = {2021},
-        url = {https://arxiv.org/pdf/2102.04889.pdf}
-    }
-    
-## How To Download and Prepare BembaSpeech
-
-To download the dataset and prepare the data/csv files follow the following commands:
-
-    > git clone https://github.com/csikasote/BembaSpeech.git 
-    > cd BembaSpeech
-    > python prepare.py
-
 -----------------
 
-1. INTRODUCTION
+### 1. INTRODUCTION
 
 ----------------------
 
@@ -31,7 +10,17 @@ BembaSpeech is a corpus of read speech in Bemba language of Zambia, based on pub
 
 All signal files are encoded in Waveform Audio File Format (WAVE) from a mono recording with a sample rate of 16K Hz.
 
-2. STRUCTURE
+#### How To Download & Prepare BembaSpeech
+
+To download the dataset and prepare the data/csv files follow the following commands:
+
+    > git clone https://github.com/csikasote/BembaSpeech.git 
+    > cd BembaSpeech
+    > python prepare.py
+
+The `prepare.py` script prepares the dataset in such a way that it creates folders, `audio` and `csv` for all audio (.wav) and csv files respectively. 
+
+### 2. STRUCTURE
 
 -------------
 
@@ -54,7 +43,7 @@ These subsets are disjoint, i.e. the audio of each speaker is assigned to exactl
     ---------------------------------------------------------------------------------------------
     
 
-3. FILE ORGANIZATION
+### 3. FILE ORGANIZATION
 
 ----------------
 The corpus file organization is as follows:
@@ -97,3 +86,22 @@ The corpus file organization is as follows:
 * [SPEAKERS.TXT](BembaSpeech/SPEAKERS.TXT) contains speaker information and their contributuion to the corpus.
 * [DATASTATEMENT](DATASTATEMENT.md) has contextual information to the creation of this dataset in detail
 
+------------------------
+    
+### 4. HOW TO CITE THE WORK
+
+------------------------
+
+If you use this speech dataset in your project or research, please consider citing:
+
+    @inproceedings{sikasote-anastasopoulos21bembaspeech,
+        abstract = {We present a preprocessed, ready-to-use automatic speech recognition corpus, BembaSpeech, consisting over 24 hours of read speech in the Bemba language, a written but low-resourced language spoken by over 30% of the population in Zambia. To assess its usefulness for training and testing ASR systems for Bemba, we train an end-to-end Bemba ASR system by fine-tuning a pre-trained DeepSpeech English model on the training portion of the BembaSpeech corpus. Our best model achieves a word error rate (WER) of 54.78%. The results show that the corpus can be used for building ASR systems for Bemba.},
+        title = {BembaSpeech: A Speech Recognition Corpus for the Bemba Language},
+        author = {Sikasote, Claytone and Anastasopoulos, Antonios},
+        booktitle = {Proceedings of AfricaNLP},
+        address = {Online},
+        month = {April},
+        year = {2021},
+        url = {https://arxiv.org/pdf/2102.04889.pdf}
+    }
+    
