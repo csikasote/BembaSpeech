@@ -6,9 +6,12 @@
 
 ----------------------
 
+
 BembaSpeech is a corpus of read speech in Bemba language of Zambia, based on publicly available Bemba literature books. Its purpose is to enable the training and testing of automatic speech recognition(ASR) systems in Bemba language. The corpus has 14, 438 utterances culminating into 24.5 hours of speech data.
 
 All signal files are encoded in Waveform Audio File Format (WAVE) from a mono recording with a sample rate of 16K Hz.
+
+You can read the paper here: <a href="https://arxiv.org/pdf/2102.04889.pdf">BembaSpeech: A Speech Recognition Corpus for the Bemba Language</a>.
 
 #### How To Download & Prepare BembaSpeech
 
