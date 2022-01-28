@@ -112,5 +112,5 @@ def preprocess_data(source_dir):
                 print("Error:%s." % (e.strerror))  
 
 if __name__ == "__main__":
-    source_dir = './Bembaspeech'
+    source_dir = './BembaSpeech'
     preprocess_data(source_dir)
