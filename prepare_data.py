@@ -44,18 +44,24 @@ def copy_audio_and_split_sentences(extracted_dir, data_set, dest_dir):
                     ds_time_size = ds_time_size + (wav_duration/3600)
                     # check for duration of the audio
                     shutil.copy2(src_wav_file, dst_wav_file)
-                    files.append((os.path.abspath(dst_wav_file), wav_duration, transcript))
-                    #files.append((seqid+".wav", wav_duration, transcript))
+                    # uncomment the line below if you wish to 
+                    # generate the SCV files with absolute path to audio files
+                    #files.append((os.path.abspath(dst_wav_file), transcript))
+                    files.append((seqid+".wav", wav_duration, transcript))
                     
-    set_df = pd.DataFrame(data=files, columns=["path", 'duration', "sentence"])
+    set_df = pd.DataFrame(data=files, columns=["audio", 'duration', "sentence"])
     return set_df, ds_time_size
     
 def preprocess_data(source_dir):    
     # check if the dirs
     data_dir = os.path.join(source_dir, ".")
+    csv_dir = os.path.join(data_dir, "csv")
 
     if not os.path.exists(data_dir):
         os.makedirs(data_dir)
+
+    if not os.path.exists(csv_dir):
+        os.makedirs(csv_dir)
    
     print("Preparing audio files and generating csv files for training the model ... \n")
     with progressbar.ProgressBar(max_value=3, widget=progressbar.AdaptiveETA) as bar:
@@ -63,10 +69,10 @@ def preprocess_data(source_dir):
         # processing training set
         train_clean, train_size = copy_audio_and_split_sentences(data_dir, "train", "audio")
         bar.update(0)
-        train_clean.to_csv(os.path.join(data_dir, "train.csv"), sep = '\t', index=False)
-        print('train.csv has been processed successfully!')
-        print('training set size: {:.2f} hrs'.format(train_size))
-        print('No of files:', len(train_clean))
+        train_clean.to_csv(os.path.join(csv_dir, "train.csv"), sep = '\t', index=False)
+        print("> 'train.csv' has been processed successfully!")
+        print('> Training set size: {:.2f} hrs'.format(train_size))
+        print('> No of files:', len(train_clean))
         
         train_folder = os.path.join(data_dir, "train")
         if os.path.exists(train_folder):
@@ -78,10 +84,10 @@ def preprocess_data(source_dir):
         # processing dev set
         dev_clean, dev_size = copy_audio_and_split_sentences(data_dir, "dev", "audio")
         bar.update(1)
-        dev_clean.to_csv(os.path.join(data_dir, "dev.csv"), sep = '\t', index=False)
-        print('dev.csv has been processed successfully!')
-        print('evaluation set size: {:.2f} hrs'.format(dev_size))
-        print('No of files:', len(dev_clean))
+        dev_clean.to_csv(os.path.join(csv_dir, "dev.csv"), sep = '\t', index=False)
+        print("> 'dev.csv' has been created successfully!")
+        print('> Evaluation set size: {:.2f} hrs'.format(dev_size))
+        print('> No of files:', len(dev_clean))
         
         dev_folder = os.path.join(data_dir, "dev")
         if os.path.exists(dev_folder):
@@ -93,10 +99,10 @@ def preprocess_data(source_dir):
         # processing test set
         test_clean, test_size = copy_audio_and_split_sentences(data_dir, "test", "audio")
         bar.update(2)
-        test_clean.to_csv(os.path.join(data_dir, "test.csv"), sep = '\t', index=False)
-        print('test.csv has been processed successfully!')
-        print('test set size: {:.2f} hrs'.format(test_size))
-        print('No. of file:', len(test_clean))
+        test_clean.to_csv(os.path.join(csv_dir, "test.csv"), sep = '\t', index=False)
+        print("> 'test.csv' has been created successfully!")
+        print('> Test set size: {:.2f} hrs'.format(test_size))
+        print('> No. of file:', len(test_clean))
         
         test_folder = os.path.join(data_dir, "test")
         if os.path.exists(test_folder):
@@ -104,9 +110,7 @@ def preprocess_data(source_dir):
                 shutil.rmtree(test_folder)
             except OSError as e:
                 print("Error:%s." % (e.strerror))  
-    
 
 if __name__ == "__main__":
-    # change the location if you want
-    source_dir = './BembaSpeech'
+    source_dir = './Bembaspeech'
     preprocess_data(source_dir)
