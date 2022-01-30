@@ -114,6 +114,6 @@ If you use this speech dataset in your project or research, please consider citi
 
 The corpus is made available to the research community licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license
     
-### CONTACT
+### 6. CONTACT
 
 Please feel to drop me an email `claytonsikasote@gmail.com` if you would like to discuss anything related to this work or anything else related. Cheers!
