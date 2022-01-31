@@ -44,52 +44,7 @@ These subsets are disjoint, i.e. the audio of each speaker is assigned to exactl
     ---------------------------------------------------------------------------------------------
     
 
-### 3. FILE ORGANIZATION
-
-----------------
-The corpus file organization is as follows:
-
-    <BembaSpeech>
-        |
-        .- DATASTATEMENT.md
-        |
-        .- README.md
-        |
-        .- SPEAKERS.TXT
-        |
-        .- train -/
-        |        |
-        .        .- 01 - /
-        |           |
-        .           .- 180101-020137_bem_d31_elicit - /
-        |           |	    |
-        .           .	    .- 01-180101-020137_bem_d31_elicit_text_script.txt
-        |           |	    |
-        .           .	    .- 01-180101-020137_bem_d31_elicit_transcript.txt
-        |           |	    |    
-        .           .	    .- 01-180101-020137_bem_d31_elicit_0.wav
-        |           |	    |
-        .           .	    .- 01-180101-020137_bem_d31_elicit_1.wav
-        |           |	    |
-        .           |	    . ...
-        |           |
-        .           .- 180101-020249_bem_d31_elicit/
-        |           	    |
-        . ...                   .- ...
-               	    
-
-------------------
-* [train](BembaSpeech/train) - is the train dataset subset name
-* **01**    - is the speaker_id of the speaker
-* **180101-020249_bem_d31_elicit** is the recording session of the speaker. 
-* **\*_transcripts.txt** files contains the transcripts for each of the utterances [<utterance_id transcript>]. 
-* **\*_text_script.txt** files contains the text from which readers read from to create audio. <transcripts>
-* [SPEAKERS.TXT](BembaSpeech/SPEAKERS.TXT) contains speaker information and their contributuion to the corpus.
-* [DATASTATEMENT](DATASTATEMENT.md) has contextual information to the creation of this dataset in detail
-
-------------------------
-    
-### 4. HOW TO CITE
+### 3. CITATION
 
 ------------------------
 
@@ -108,12 +63,12 @@ If you use this speech dataset in your project or research, please consider citi
     
 ------------------------
     
-### 5. LICENSE
+### 4. LICENSE
 
 ------------------------
 
 The corpus is made available to the research community licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license
     
-### 6. CONTACT
+### 5. CONTACT
 
 Please feel to drop me an email `claytonsikasote@gmail.com` if you would like to discuss anything related to this work or anything else related. Cheers!
