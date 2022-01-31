@@ -48,7 +48,7 @@ These subsets are disjoint, i.e. the audio of each speaker is assigned to exactl
 
 ------------------------
 
-If you use this speech dataset in your project or research, please consider citing:
+If you use this speech dataset in your project or research, please consider citing as follows:
 
     @inproceedings{sikasote-anastasopoulos21bembaspeech,
         abstract = {We present a preprocessed, ready-to-use automatic speech recognition corpus, BembaSpeech, consisting over 24 hours of read speech in the Bemba language, a written but low-resourced language spoken by over 30% of the population in Zambia. To assess its usefulness for training and testing ASR systems for Bemba, we train an end-to-end Bemba ASR system by fine-tuning a pre-trained DeepSpeech English model on the training portion of the BembaSpeech corpus. Our best model achieves a word error rate (WER) of 54.78%. The results show that the corpus can be used for building ASR systems for Bemba.},
@@ -67,7 +67,7 @@ If you use this speech dataset in your project or research, please consider citi
 
 ------------------------
 
-The corpus is made available to the research community licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license
+The dataset is made available to the research community licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license
     
 ### 5. CONTACT
 
