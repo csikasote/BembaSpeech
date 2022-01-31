@@ -28,4 +28,3 @@ The meaning of the fields in left-to-right order is as follows:
  | 16   | F | 	23		|	00:02:18 	| 	Angela     |      Bemba      | 
  | 17   | F | 	194		|	00:11:51 	| 	McElise    |      Lunda      |
  ---------------------------------------------------------------------------------------------
-
