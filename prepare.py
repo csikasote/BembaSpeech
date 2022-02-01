@@ -46,8 +46,8 @@ def copy_audio_and_split_sentences(extracted_dir, data_set, dest_dir):
                     shutil.copy2(src_wav_file, dst_wav_file)
                     # uncomment the line below if you wish to 
                     # generate the SCV files with absolute path to audio files
-                    #files.append((os.path.abspath(dst_wav_file), wav_duration, transcript))
-                    files.append((seqid+".wav", wav_duration, transcript))
+                    files.append((os.path.abspath(dst_wav_file), wav_duration, transcript))
+                    #files.append((seqid+".wav", wav_duration, transcript))
                     
     set_df = pd.DataFrame(data=files, columns=["audio", 'duration', "sentence"])
     return set_df, ds_time_size
