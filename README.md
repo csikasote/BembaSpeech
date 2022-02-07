@@ -71,4 +71,4 @@ The dataset is made available to the research community licensed under the [Crea
     
 ### 5. CONTACT
 
-Please feel to drop me an email `claytonsikasote@gmail.com` if you would like to discuss anything related to this work or anything else related. Cheers!
+Please feel free to drop me an email `claytonsikasote@gmail.com` if you would like to discuss anything related to this work or anything else related. Cheers!
