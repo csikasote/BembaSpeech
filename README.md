@@ -17,18 +17,6 @@ The corpus is split into three parts:
 * [test](BembaSpeech/data/splits/test.csv)  - testing set, of approximately 2 hours of speech
 
 The subsets are disjoint, i.e. the audio of each speaker is assigned to exactly one subset. 
-The allocation of each speaker contribution is as follows:
-
-    _____________________________________________________________________________________________
-    | NAME  | DURATION |  UNITS | 		SPEAKERS		|   Male   |    Female      |
-    _____________________________________________________________________________________________
-    | Train | 20:05:09 | 11,906 | 01, 03, 04, 05, 07, 08, 09, 10	|      5   |       3        |
-    .--------------------------------------------------------------------------------------------
-    | Dev	| 02:27:20 | 1,555  | 02, 11, 13, 14, 15, 16, 17	|      3   |       4        | 
-    .--------------------------------------------------------------------------------------------
-    | Test	| 02:03:03 | 977    | 06, 12				|      1   |       1        |
-    ---------------------------------------------------------------------------------------------
-    
 
 ### 2. STRUCTURE
 
@@ -48,7 +36,11 @@ The repository is structured as follows:
             ├── speaker_info.txt
             └── text.zip
 
-### 3. CITATION
+### 3. BASELINE EXPERIMENTS
+
+You may find the code used for the baseline experiments in the <a href="https://github.com/csikasote/BembaASR">BembaASR</a> repository.
+
+### 4. CITATION
 
 ------------------------
 
@@ -67,12 +59,12 @@ If you use this speech dataset in your project or research, please consider citi
     
 ------------------------
     
-### 4. LICENSE
+### 5. LICENSE
 
 ------------------------
 
 The dataset is made available to the research community licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license
     
-### 5. CONTACT
+### 6. CONTACT
 
 Please feel free to drop me an email `claytonsikasote@gmail.com` if you would like to discuss anything related to this work or anything else related. Cheers!
