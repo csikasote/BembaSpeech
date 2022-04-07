@@ -6,32 +6,18 @@
 
 ----------------------
 
-
 [BembaSpeech](https://arxiv.org/pdf/2102.04889.pdf) is an ASR corpus for the Bemba language of Zambia. It contains read speech from diverse publicly available Bemba sources; literature books, radio/TV shows transcripts, Youtube video transcripts as well as various open online sources. Its purpose is to enable the training and testing of automatic speech recognition(ASR) systems in Bemba language. The corpus has 14, 438 utterances culminating into 24.5 hours of speech data.
 
 All signal files are encoded in Waveform Audio File Format (WAVE) from a mono recording with a sample rate of 16K Hz.
 
-#### How To Download & Prepare BembaSpeech
-
-To download the dataset and prepare the data/csv files follow the following commands:
-
-    > git clone https://github.com/csikasote/BembaSpeech.git 
-    > cd BembaSpeech
-    > python prepare.py
-
-The `prepare.py` script prepares the dataset in such a way that it creates folders, `audio` and `csv` for all audio (.wav) and csv files respectively. 
-
-### 2. STRUCTURE
-
--------------
-
 The corpus is split into three parts:
 
-* [train](BembaSpeech/train) - training set, of approximately 20 hours of speech 
-* [dev](BembaSpeech/dev)   - development set, of approximately 2.5 hours of speech
-* [test](BembaSpeech/test)  - testing set, of approximately 2 hours of speech
+* [train](BembaSpeech/data/splits/train.csv) - training set, of approximately 20 hours of speech 
+* [dev](BembaSpeech/data/splits/dev.csv)   - development set, of approximately 2.5 hours of speech
+* [test](BembaSpeech/data/splits/test.csv)  - testing set, of approximately 2 hours of speech
 
-These subsets are disjoint, i.e. the audio of each speaker is assigned to exactly one subset. The allocation of each speaker contribution is as follows:
+The subsets are disjoint, i.e. the audio of each speaker is assigned to exactly one subset. 
+The allocation of each speaker contribution is as follows:
 
     _____________________________________________________________________________________________
     | NAME  | DURATION |  UNITS | 		SPEAKERS		|   Male   |    Female      |
@@ -43,6 +29,24 @@ These subsets are disjoint, i.e. the audio of each speaker is assigned to exactl
     | Test	| 02:03:03 | 977    | 06, 12				|      1   |       1        |
     ---------------------------------------------------------------------------------------------
     
+
+### 2. STRUCTURE
+
+----------------
+
+The repository is structured as follows:
+
+        BembaSpeech
+            ├── data
+            │   ├── audio
+            │   └── splits
+            │       ├── dev.csv
+            │       ├── test.csv
+            │       └── train.csv
+            ├── Data Statement.md
+            ├── README.md
+            ├── speaker_info.txt
+            └── text.zip
 
 ### 3. CITATION
 
