@@ -36,7 +36,7 @@ The repository is structured as follows:
             ├── speaker_info.txt
             └── text.zip
 
-### 3. BASELINE EXPERIMENTS
+### 3. EXPERIMENTS
 
 You may find the code used for the baseline experiments in the <a href="https://github.com/csikasote/BembaASR">BembaASR</a> repository.
 
