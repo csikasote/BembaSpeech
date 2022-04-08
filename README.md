@@ -33,8 +33,7 @@ The repository is structured as follows:
             │       └── train.csv
             ├── Data Statement.md
             ├── README.md
-            ├── speaker_info.txt
-            └── text.zip
+            └── speaker_info.txt
 
 ### 3. EXPERIMENTS
 
