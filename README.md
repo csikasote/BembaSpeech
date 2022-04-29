@@ -12,9 +12,9 @@ All signal files are encoded in Waveform Audio File Format (WAVE) from a mono re
 
 The corpus is split into three parts:
 
-* [train](BembaSpeech/data/splits/train.csv) - training set, of approximately 20 hours of speech 
-* [dev](BembaSpeech/data/splits/dev.csv)   - development set, of approximately 2.5 hours of speech
-* [test](BembaSpeech/data/splits/test.csv)  - testing set, of approximately 2 hours of speech
+* training set - of approximately 20 hours of speech 
+* development set- of approximately 2.5 hours of speech
+* testing set - of approximately 2 hours of speech
 
 The subsets are disjoint, i.e. the audio of each speaker is assigned to exactly one subset. 
 
