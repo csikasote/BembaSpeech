@@ -37,7 +37,7 @@ The repository is structured as follows:
 
 ### 3. EXPERIMENTS
 
-You may find the code used for the baseline experiments in the <a href="https://github.com/csikasote/BembaASR">BembaASR</a> repository.
+You may find the code used for the baseline experiments in the <a href="https://github.com/csikasote/bembaspeech-exps">bembaspeech-exps</a> repository.
 
 ### 4. CITATION
 
