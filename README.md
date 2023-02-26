@@ -25,12 +25,11 @@ The subsets are disjoint, i.e. the audio of each speaker is assigned to exactly 
 The repository is structured as follows:
 
         BembaSpeech
-            ├── data
-            │   ├── audio
-            │   └── splits
-            │       ├── dev.csv
-            │       ├── test.csv
-            │       └── train.csv
+            ├── bem
+            │   ├── audio/*
+            │   ├── dev.csv
+            │   ├── test.csv
+            │   └── train.csv
             ├── Data Statement.md
             ├── README.md
             └── speaker_info.txt
