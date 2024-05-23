@@ -16,7 +16,7 @@ The corpus is split into three parts:
 * development set- of approximately 2.5 hours of speech
 * testing set - of approximately 2 hours of speech
 
-### 2. STRUCTURE
+### 2. Structure
 
 ----------------
 
