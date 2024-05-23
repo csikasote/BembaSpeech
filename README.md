@@ -16,8 +16,6 @@ The corpus is split into three parts:
 * development set- of approximately 2.5 hours of speech
 * testing set - of approximately 2 hours of speech
 
-The subsets are disjoint, i.e. the audio of each speaker is assigned to exactly one subset. 
-
 ### 2. STRUCTURE
 
 ----------------
@@ -34,7 +32,7 @@ The repository is structured as follows:
             ├── README.md
             └── speaker_info.txt
 
-### 4. CITATION
+### 3. CITATION
 
 ------------------------
 
@@ -54,13 +52,8 @@ If you use this speech dataset in your project or research, please consider citi
         }
     
 ------------------------
-    
-### 5. LICENSE
 
-------------------------
-
-The dataset is made available to the research community licensed under the [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license
     
-### 6. CONTACT
+### 4. CONTACT
 
 Please feel free to drop me an email `claytonsikasote@gmail.com` if you would like to discuss anything related to this work or anything else related. Cheers!
