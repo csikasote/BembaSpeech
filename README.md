@@ -1,8 +1,8 @@
-## BembaSpeech ASR Corpus
+## BembaSpeech: a Speech Recognition Corpus for the Bemba Language
 
 [![License: CC BY NC ND 4.0](https://img.shields.io/badge/License-CC_BY_NC_ND_4.0-green.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-### 1. INTRODUCTION
+### 1. Introduction
 
 ----------------------
 
@@ -32,7 +32,7 @@ The repository is structured as follows:
             ├── README.md
             └── speaker_info.txt
 
-### 3. CITATION
+### 3. Citation
 
 ------------------------
 
@@ -54,6 +54,6 @@ If you use this speech dataset in your project or research, please consider citi
 ------------------------
 
     
-### 4. CONTACT
+### 4. Contact
 
 Please feel free to drop me an email `claytonsikasote@gmail.com` if you would like to discuss anything related to this work or anything else related. Cheers!
