@@ -34,10 +34,6 @@ The repository is structured as follows:
             ├── README.md
             └── speaker_info.txt
 
-### 3. EXPERIMENTS
-
-You may find the code used for the baseline experiments in the <a href="https://github.com/csikasote/bembaspeech-exps">bembaspeech-exps</a> repository.
-
 ### 4. CITATION
 
 ------------------------
